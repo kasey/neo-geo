@@ -1,0 +1,1 @@
+Library for un/marshaling GeoJSON [http://geojson.org/geojson-spec.html] formatted json data to/from Go[golang.org] structures.
